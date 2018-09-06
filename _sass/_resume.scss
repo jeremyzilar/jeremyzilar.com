@@ -12,10 +12,10 @@
     .date{
       margin-bottom: 12px;
       font-weight: 600;
-      padding: 3px 8px 4px 8px;
+      padding: 2px 6px 3px 6px;
       border: 1px $deep solid;
       display: inline-block;
-      font-size: 14px;
+      font-size: 13px;
       line-height: 18px;
     }
     h5{
@@ -23,7 +23,11 @@
       font-weight: 700;
     }
     h3{
-      font-size: 30px;
+      font-size: 26px;
+      margin-bottom: .5em;
+    }
+    p{
+      margin-top: 0;
     }
   }
   .pdf{
