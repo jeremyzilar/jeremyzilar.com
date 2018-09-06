@@ -5,7 +5,7 @@ main{
   margin-bottom: 80px;
 }
 section{
-  padding: 40px 0;
+  // padding: 40px 0;
 }
 article{
   .head{
@@ -31,9 +31,12 @@ article{
     }
   }
 }
+#home{
+  margin-bottom: 20px;
+}
 #home,
-#interests,
 #elsewhere{
+  margin: 0 0 80px 0;
   article{
     .content{
       font-size: 30px;
