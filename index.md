@@ -3,8 +3,10 @@ layout: home
 title: Jeremy Zilar
 ---
 
-Design, editorial, and product strategy in New York City.
+I am an artist, designer and strategist in New York City.
 
-Currently, I am the Director of [Digital.gov](/work/digitalgov), a program aimed at helping people in government design, build and deliver better digital services.
+Currently, I am the Director of [Digital.gov](/work/digitalgov), a program aimed at helping governments design, build and deliver better digital services.
 
 I am on the board of the [Brooklyn Rail](/work/brooklynrail).
+
+Previously, I oversaw Blogs at The New York Times.
