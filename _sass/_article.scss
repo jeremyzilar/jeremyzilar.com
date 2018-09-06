@@ -17,8 +17,8 @@ article{
   .content{
     margin-top: 0;
     font-size: 22px;
-    font-weight: 300;
     line-height: 30px;
+    font-weight: 300;
     img{
       width: 100%;
     }
@@ -32,7 +32,8 @@ article{
   }
 }
 #home,
-#interests{
+#interests,
+#elsewhere{
   article{
     .content{
       font-size: 30px;
