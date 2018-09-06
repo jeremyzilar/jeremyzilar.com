@@ -1,0 +1,33 @@
+// Navigation
+
+nav{
+  padding: 1em 0;
+  border-top: 2px #000 solid;
+  font-size: 18px;
+  ul{
+    padding: 0;
+    li{
+      list-style-type: none;
+      font-weight: bold;
+    }
+    a,
+    a:hover{
+      color: $black;
+    }
+
+    ul{
+      padding-left: 18px;
+      li{
+        list-style-type:circle;
+        font-size: 14px;
+        font-weight: normal;
+      }
+    }
+  }
+}
+.guide_nav{
+  font-size: 14px;
+  ul li ul{
+    margin-bottom: 18px;
+  }
+}

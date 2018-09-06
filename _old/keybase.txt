@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/jeremyzilar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jeremyzilar.com
+  * I am jeremyzilar (https://keybase.io/jeremyzilar) on keybase.
+  * I have a public key with fingerprint 23DD DF47 8F0C 1524 BB19  C9AB B4E4 A2DF EBBD 20E9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "23dddf478f0c1524bb19c9abb4e4a2dfebbd20e9",
+            "host": "keybase.io",
+            "key_id": "b4e4a2dfebbd20e9",
+            "kid": "0101ebe3f9849751dd0899a386f5c2b188035e237cb9ef4821e6aed3213b29bbba8b0a",
+            "uid": "28db79e51f1ba4594e050e1f3902ed19",
+            "username": "jeremyzilar"
+        },
+        "service": {
+            "hostname": "jeremyzilar.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1436731299,
+    "expire_in": 157680000,
+    "prev": "3971598c781cdccad7393e8526ea3c19d09712dfa2e03849793075974a65bfd1",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMM3AnicbZJ9TFV1GMcv8pKBmDGsiFtejxay8XJe7zm/u+YLSgRbKPiCgHU5v3N+
+F05wXzj33CsXUJxNA+0WU24sQ95yZGyNiGxkMSJIFFgIuuYQNcJLqICD1piUq3NY
+/VW/f579nuf7fJ493z194YG60IAv7zbfedBluBcw2JPi0u1t7v+4DIN20YOZyrBC
+tBwski0fyQ5ZsimYCSMpURQtNMtZcIFgSBpCAgiAh5BGNE+KFgShSOIIYHFYgd2p
+dagYyDtRgmRXc+rHLIlq9n/0hcsFnMAJBBFlARwNWIYQRZwDgKc4o4URSEhwHE4x
+iKRYAQJkoTmSQEYeiRRJUJAEEEKegziv4lzLOJITIQsQQ1gIyNMMoBHO4IiwUAAn
+kUhoc11OJNt4K1LVbyEZWT2lUhEvY4fiMLXglgSkuaAt819RgmC3qgSHbFfsgr1I
+LRYoisOk9SoehyY+iKD5H4wZSjZRNVNtcCPZKdltmIlQlYIiaVyCpowsRZAAxGGo
+xCHJyCxpCoY1crj6tDHIrSIpwBIM4ASWIwRREHiRpQCFOIY0Ip4SCCDiqkC1licR
+TmkmAgpnGcDSvJGBFpHAtMWKbXaVrUIVPl9lOqV8G6+4ZIQd+r7nQJAuIFQXErxC
+uwdd6JNr/r0S/QdrdOc2LdwIb/Cd+Hn7tTowGXMnb9v69BMrye4XYHVUQEbvfMKt
+QvmlsJFqJ7l5ZtcTx+9V3u5NOh197Hx8/eXZ7smxCmP+RPOqogsj11/byDonRuaz
+q8dvnk331DamHC1s0bX+doUL3B21vS2iNXuscOjSltwZJaskIjcjdSLRt/SYX52Q
+5Rse9AxVvretNjmBeXaLr3FUmerQGz8a7i1Y1IeD4J4Na6O9ad2P5vx/fQO2pv6y
+fl/io5acg52b2a3t056JtDCD1fogZuHGzOTR2P6x0tlTp8c6ipvlZ+oWyyvyMsZf
+bzAIffuPje451Rd+dcQdfOCp2HOxkb7Mgu9eWWt7+vewWO+l3faBpDLTG68mZRga
+MsYRRlyHlTuTZ56f35R3rakO1RRX3fqprdZ7Vjr8B315oWYu8aRtR1zfXkNqvA2t
+cs1ndaUURZpyHYtc+jve+tzSEL3/4pur3zWfCfx89ovB2zcf3tf7kw0FHT+u+KoK
+xFszH5+Zy1wablyK53aODh9xjq/z3r9qeO79kryWqY4X6/rzJ3fV3P3UlZ2+1DTd
+Gu0orfo6ZV9Oh78flX+4Y0/dhsCI6s9cVnR42B3ka21JaTPrx+GRKyuzppf8+y8W
+1x+PGjqflvN25w8PuyODvEq5v72ha92frGegsfPXpJDObytKNhbZPnl5qknh3DHt
+A7kX2L8Br26yZA==
+=LmiR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jeremyzilar
+
+==================================================================

@@ -1,0 +1,65 @@
+
+// Settings
+
+
+// Colors
+$white: #fff;
+$black: #000;
+$deep: #2e2c40;
+$bg: #5942d2;
+$base_type: 16px;
+$link: #5942d2;
+
+// Type
+
+$serif: Times, serif;
+$sans: 'Lato', -apple-system, BlinkMacSystemFont, sans-serif;
+$mono: "Roboto Mono", monospace;
+$base_color: $deep;
+
+
+
+// - - - - - - - - - - - - -
+
+body{
+  margin:0;
+  color: $base_color;
+  font-size: $base_type;
+  font-family: $sans;
+  background-color: $bg;
+}
+
+.paper{
+  background: rgb(247,247,242);
+  background: -moz-linear-gradient(-45deg, rgba(247,247,242,1) 0%, rgba(242,241,230,1) 100%);
+  background: -webkit-linear-gradient(-45deg, rgba(247,247,242,1) 0%,rgba(242,241,230,1) 100%);
+  background: linear-gradient(135deg, rgba(247,247,242,1) 0%,rgba(242,241,230,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f2', endColorstr='#f2f1e6',GradientType=1 );
+  // background: rgb(245,239,234);
+  // background: -moz-linear-gradient(-45deg, rgba(245,239,234,1) 0%, rgba(230,239,239,1) 100%);
+  // background: -webkit-linear-gradient(-45deg, rgba(245,239,234,1) 0%,rgba(230,239,239,1) 100%);
+  // background: linear-gradient(135deg, rgba(245,239,234,1) 0%,rgba(230,239,239,1) 100%);
+  // filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5efea', endColorstr='#e6efef',GradientType=1 );
+}
+
+a{
+  padding-bottom: 2px;
+  border-bottom: 3px $bg solid;
+  text-decoration: none;
+  color: $base_color;
+}
+a:hover{
+  border-bottom: 3px #745fe9 solid;
+}
+
+a:focus{
+  background: #b69fff;
+  background: #cbc4f2;
+  border-radius: 3px;
+}
+
+hr{
+  margin: 50px 0;
+  border-top-color: $deep;
+  width: 25%;
+}

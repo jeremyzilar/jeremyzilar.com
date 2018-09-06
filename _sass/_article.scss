@@ -1,0 +1,64 @@
+
+// Headings
+
+main{
+  margin-bottom: 80px;
+}
+article{
+  .head{
+    h1{
+      margin-top: 0;
+      font-size: 36px;
+    }
+  }
+  .content{
+    margin-top: 0;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 30px;
+    img{
+      width: 100%;
+    }
+    li{
+      margin-bottom: .5em;
+    }
+    p{
+      margin-top: 0;
+      margin-bottom: 1em;
+    }
+  }
+}
+#home,
+#interests{
+  article{
+    .content{
+      font-size: 30px;
+      line-height: 48px;
+    }
+  }
+}
+.work{
+  article{
+    h1{
+      margin-bottom: .5em;
+    }
+    h5{
+      font-weight: 600;
+      padding: 3px 8px 4px 8px;
+      border: 1px $deep solid;
+      display: inline-block;
+      font-size: 14px;
+    }
+    .content{
+      a{
+        padding-bottom: 1px;
+        border-bottom: 2px $bg solid;
+      }
+      ul{
+        padding-right: 40px;
+        margin-top: 0;
+        font-size: 18px;
+      }
+    }
+  }
+}

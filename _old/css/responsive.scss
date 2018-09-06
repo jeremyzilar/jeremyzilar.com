@@ -1,0 +1,56 @@
+/*
+Hide code snippets on mobile devices
+XS
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+*/
+@media screen and (max-width: 767px) {
+
+}
+
+/*
+Tablets and up
+SM
+*/
+@media screen and (min-width: 768px) {
+	.project{
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+	.project .slides{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.project .work{
+		margin-top: 0;
+	}
+	.project .item{
+		display: none;
+		max-height:500px;
+		overflow-y: scroll;
+	}
+	.hed{
+		padding: 15px 0;
+	}
+	.hed .job-logo {
+		max-width: 250px;
+	}
+}
+
+/*
+Tablets/desktops and up
+MD
+*/
+@media screen and (min-width: 992px) {
+	#bio .container{
+		max-width:575px;
+	}
+}
+
+
+/*
+Large desktops and up
+LG
+*/
+@media screen and (min-width: 1200px) {
+
+}
