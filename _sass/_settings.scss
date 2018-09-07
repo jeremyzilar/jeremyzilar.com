@@ -42,22 +42,6 @@ body{
   // filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5efea', endColorstr='#e6efef',GradientType=1 );
 }
 
-a{
-  padding-bottom: 2px;
-  border-bottom: 3px $bg solid;
-  text-decoration: none;
-  color: $base_color;
-}
-a:hover{
-  border-bottom: 3px #745fe9 solid;
-}
-
-a:focus{
-  background: #b69fff;
-  background: #cbc4f2;
-  border-radius: 3px;
-}
-
 hr{
   margin: 50px 0;
   border-top-color: $deep;
