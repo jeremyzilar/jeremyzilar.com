@@ -5,7 +5,6 @@ permalink: /work/digitalgov/
 years: Mar, 2017 — Present
 ---
 
-
 A decade-old program aimed at helping people in government design and build better, public services through news, guidance, training, conferences, 19 government-wide communities of practice, and tools for collaborating across government agencies.
 
 - [Digital.gov](https://digital.gov/) — News, resources, and communities aimed at helping teams in government overcome the challenges of building smart, accessible, and effective digital products and services.
