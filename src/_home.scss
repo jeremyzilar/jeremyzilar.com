@@ -1,0 +1,28 @@
+.home{
+  .content{
+    @include u-font('sans', 'xl');
+    @include u-text('thin');
+  }
+}
+
+#elsewhere{
+  @include u-padding-y(10);
+  .content{
+    @include u-font('sans', 'xl');
+    @include u-text('thin');
+    ul{
+      @include add-list-reset;
+      @include u-margin-y(3);
+      @include u-font('sans', 'lg');
+      @include u-text('light');
+      a{
+        @include u-text('no-underline');
+        &:hover{
+          span{
+            @include u-border-bottom('1px', 'solid', 'black');
+          }
+        }
+      }
+    }
+  }
+}

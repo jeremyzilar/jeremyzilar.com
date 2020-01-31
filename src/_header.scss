@@ -1,0 +1,12 @@
+
+header{
+  @include u-padding-y(9);
+  h1{
+    @include u-font('sans', 'lg');
+    @include u-text('normal');
+    a{
+      @include u-text('no-underline');
+      @include u-text('black');
+    }
+  }
+}
