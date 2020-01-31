@@ -32,7 +32,7 @@ include: ["_pages"]
 permalink: /:title/
 
 github:
-  organization: 
+  organization:
   repository: jz
   default_branch: master
 
