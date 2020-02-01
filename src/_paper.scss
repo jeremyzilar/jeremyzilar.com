@@ -1,14 +1,8 @@
 body{
   @include u-bg('indigo-warm-60v');
-  // a{
-  //   @include u-text('primary-vivid');
-  //   &:visited{
-  //     @include u-text('indigo-warm-60v');
-  //   }
-  // }
 }
 .paper{
-  @include u-bg('gray-warm-2');
+  @include u-bg('gray-warm-4');
   @include u-position('relative');
   @include u-height('full');
 }

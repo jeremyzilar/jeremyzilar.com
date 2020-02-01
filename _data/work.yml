@@ -1,0 +1,95 @@
+experience:
+  - job: digitalgov
+    title: "Director, Digital.gov"
+    company: "General Services Administration / GSA"
+    date_start: "Mar 2017"
+    date_end: "Present"
+    desc: |
+      Modernizing and directing a decade-old program aimed at helping teams in government build better, more reliable digital services for the public. Collaborating with digital leaders who are facing similar challenges across federal agencies, and with governments around the world. Oversaw 19 government-wide communities of practice and developed an events and training program. Provided a long-term foundation for the U.S. Web Design System to ggrid-row and flourish as a congressionally-funded, open-source project.
+
+      Highlights: Worked with government communication/PR teams to implement cgrid-rowdsourcing and collaboration around common technology challenges and problems. Rebuilt Digital.gov as an open-source project, largely using free available tools.
+
+  - job: brooklynrail
+    title: "Board Member"
+    company: "The Brooklyn Rail"
+    date_start: "Nov 2017"
+    date_end: "Present"
+    desc: |
+      Led engagements with government agencies (Federal, State, Local, Tribal) on mission-critical projects, aligning strategy, vision and operational objectives with an aim toward user-centered design, agile methodologies, transparency and open source.
+
+  - job: 18f
+    title: "Strategist / Innovation Specialist [GS15]"
+    company: "General Services Administration / GSA"
+    date_start: "May 2015"
+    date_end: "Apr 2016"
+    desc: |
+      Led engagements with government agencies (Federal, State, Local, Tribal) on mission-critical projects, aligning strategy, vision and operational objectives with an aim toward user-centered design, agile methodologies, transparency and open source.
+
+  - job: timeinc
+    title: "Director of Platform Engineering, CMS"
+    company: "Time Inc."
+    date_start: "Mar 2015"
+    date_end: "Apr 2016"
+    desc: |
+      Hired and led a team of creative technologists to redesign and engineer Fortune Magazine, and the Fortune 500 dataset. Implemented an agile process to manage editorial, design, product and technology efforts. Developed a culture of iterative releases, and used data to help the team make goal-oriented decisions. Developed new editorial tools that enable the magazine to express its identity online.
+
+      Highlights: Recruited new talent for engineering teams. Implemented agile process to manage editorial, business and technology efforts. Facilitated culture of cross-team collaboration and knowledge sharing demos and transparent communication.
+
+  - job: nyt-strategy
+    title: "Editorial and Design Strategist"
+    company: "The New York Times"
+    date_start: "Jul 2012"
+    date_end: "Dec 2014"
+    desc: |
+      Worked independently and across teams on larger editorial strategy and design-related projects across the Times that spanned areas of branding, identity, editorial tools, and internal communication.
+
+      Highlights: Completed a full content audit of nytimes.com and mobile apps in advance of a major redesign, revealing overlaps in coverage, gaps in communication, and redundant work. Reimagined new online formats for The New York Times Magazine. Developed tools that used live data to help editors visualize the impact of their work and created ways for the Times to reach new audiences.
+
+  - job: nyt-blogs
+    title: "Blog Specialist"
+    company: "The New York Times"
+    date_start: "Apr 2006"
+    date_end: "Jul 2012"
+    desc: |
+      Responsible for launching and leading the long-term digital strategy on 200+ blogs on NYTimes.com, including DealBook, FiveThirtyEight, Well, Bits, CityRoom, Opinionator, and The Lede — a blog devoted to breaking news. Oversaw the design and development of a platform for building sucessful, editorial brands within the organization. Championed the Times’ early efforts to transform a print newsroom into a highly responsive, digital-first operation that could produce continuous and and real-time news on the web.
+
+      Highlights: In addition to designing and building a scalable framework, developed the editorial workflows across the newsroom and managed the daily digital operations across the platform. Developed initial newsroom strategies for breaking news, live coverage, live blogging, reader comments, and news over Twitter.
+
+  - job: rookie-mag
+    title: "Advisor"
+    company: "Rookie Magazine"
+    date_start: "Aug 2011"
+    date_end: "Nov 2014"
+    desc: |
+      Approached by Ira Glass and Tavi Gevinson to oversee the design, build and launch Rookie Magazine, an alternative online publication for teenagers. Established goals, set expectations and pulled together a team to design and build a publication and identity in under a month.
+
+  - job: crf
+    title: "Lead Designer/Developer"
+    company: "Cardiovascular Research Foundation"
+    date_start: "Jun 2005"
+    date_end: "Apr 2006"
+    desc: |
+      Redesigned and developed a number of websites for the foundation. Worked with nonprofit board, marketing teams, and heart surgeons to bring the project to completion.
+
+  - job: mss
+    title: "The Maple Street School, Brooklyn, NY"
+    company: "Cardiovascular Research Foundation"
+    date_start: "Jun 2005"
+    date_end: "Apr 2006"
+    desc: |
+      From 2011—2014, Jeremy was the Board Chair of Communication and Design at Maple Street School, a Cooperative Pre-School in Brooklyn, New York.
+
+      As chair, he restructured the communication and technology across the school and redesigned the school's identity, website and application process. He now serves on the school's Advisory Board.
+
+education:
+  - school: rmcad
+    date_start: "Jun 2005"
+    date_end: "Apr 2006"
+    name: "The Rocky Mountain College of Art and Design"
+    degree: "BFA, Painting, Drawing, and Digital Media"
+
+  - school: sva
+    date_start: "2005"
+    date_end: "2006"
+    name: "The School of Visual Arts"
+    degree: "Courses in design and typography"
