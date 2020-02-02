@@ -1,0 +1,17 @@
+
+header{
+  @include u-padding-y(9);
+  h1,
+  h2{
+    @include u-font('sans', 'lg');
+    @include u-text('normal');
+    a{
+      @include u-padding-y('05');
+      @include u-text('no-underline');
+      @include u-text('black');
+      &:hover{
+        @include u-border-bottom('2px', 'solid', 'primary-vivid');
+      }
+    }
+  }
+}

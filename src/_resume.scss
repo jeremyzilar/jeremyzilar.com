@@ -1,0 +1,67 @@
+.resume{
+  @include u-padding-bottom(10);
+  h2{
+    @include u-margin-y(5);
+    @include u-padding-y(1);
+    @include u-text('light');
+    @include u-font('sans', 'md');
+    @include u-border-bottom('1px', 'solid','base-dark');
+  }
+
+  .pdf{
+    @include u-padding-y('105');
+    @include u-padding-x(2);
+    @include u-radius('sm');
+    @include u-bg('gray-warm-10');
+    @include u-font('sans', 'xs');
+    @include u-text('no-underline');
+    @include u-text('primary-vivid');
+    span{
+      &:hover{
+        @include u-border-bottom('1px', 'solid', 'primary-dark');
+      }
+      &:visited{
+        @include u-border-bottom('2px', 'solid', 'indigo-warm-60v');
+      }
+    }
+  }
+
+
+  .job,
+  .school{
+    @include u-padding-y(4);
+    .date{
+      @include u-margin-bottom('105');
+      @include u-font('sans', '2xs');
+      @include u-line-height('sans', 2);
+      @include u-padding-y('2px');
+      @include u-padding-x('05');
+      @include u-text('light');
+      @include u-display('inline-block');
+      @include u-border('1px', 'solid','base-dark');
+    }
+    h3{
+      @include u-margin(0);
+      @include u-font('sans', 'lg');
+      @include u-text('bold');
+    }
+    h4{
+      @include u-margin(0);
+      @include u-margin-bottom(2);
+      @include u-font('sans', 'sm');
+      @include u-text('thin');
+    }
+    .desc{
+      p{
+        @include u-text('light');
+        @include u-font('sans', 'xs');
+        &:first-child{
+          @include u-margin-top(0);
+        }
+        &:last-child{
+          @include u-margin-bottom(0);
+        }
+      }
+    }
+  }
+}
