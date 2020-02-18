@@ -1,33 +1,6 @@
-.content{
-  a{
-    @include u-text('primary-vivid');
-    &:visited{
-      @include u-text('indigo-warm-60v');
-    }
-  }
-}
-.home{
-  .content{
-    @include u-font('sans', 'xl');
-    @include u-text('thin');
-    a{
-      @include u-text('no-underline');
-      @include u-border-bottom('2px', 'solid', 'primary-vivid');
-      &:hover{
-        @include u-border-bottom('2px', 'solid', 'primary-dark');
-      }
-      &:visited{
-        @include u-border-bottom('2px', 'solid', 'indigo-warm-60v');
-      }
-
-    }
-  }
-}
-
 #elsewhere{
   @include u-padding-y(10);
   .content{
-    @include u-font('sans', 'lg');
     @include u-text('thin');
     ul{
       @include add-list-reset;
