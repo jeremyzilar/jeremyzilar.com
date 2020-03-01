@@ -46,7 +46,7 @@ collections:
 
 github:
   organization:
-  repository: jz
+  repository: jeremyzilar.com
   default_branch: master
 
 
