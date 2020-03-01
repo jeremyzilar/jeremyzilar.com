@@ -1,9 +1,35 @@
+.head{
+  h1{
+    @include u-margin-bottom(4);
+    @include u-font('sans', 'lg');
+  }
+}
+
+
 .content{
   .usa-intro{
     @include u-margin-bottom(4);
     @include u-text('thin');
   }
-  @include u-text('thin');
+
+  .btn{
+    @include u-padding-y('2px');
+    @include u-padding-x('105');
+    @include u-display('inline-block');
+    @include u-radius('sm');
+    @include u-text('no-underline');
+    @include u-text('normal');
+    @include u-text('primary-vivid');
+    @include u-border('2px', 'solid', 'primary-vivid');
+    @include u-font('sans', 'md');
+  }
+
+  hr{
+    @include u-margin-y(6);
+    @include u-margin-left(0);
+    @include u-width('card');
+  }
+
   a{
     @include u-text('primary-vivid');
     &:visited{
@@ -11,18 +37,12 @@
     }
   }
 }
-.home{
-  .content{
-    a{
-      @include u-text('no-underline');
-      @include u-border-bottom('2px', 'solid', 'primary-vivid');
-      &:hover{
-        @include u-border-bottom('2px', 'solid', 'primary-dark');
-      }
-      &:visited{
-        @include u-border-bottom('2px', 'solid', 'indigo-warm-60v');
-      }
 
-    }
+
+.calendar{
+  display: none;
+  iframe{
+    @include u-width('full');
+    @include u-height('viewport');
   }
 }

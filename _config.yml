@@ -31,6 +31,19 @@ plugins:
 include: ["_pages"]
 permalink: /:title/
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      image: /assets/img/card-handbook-1.png
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
 github:
   organization:
   repository: jz

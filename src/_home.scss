@@ -1,11 +1,26 @@
+.home{
+  .content{
+    a{
+      @include u-text('no-underline');
+      @include u-border-bottom('2px', 'solid', 'primary-vivid');
+      &:hover{
+        @include u-border-bottom('2px', 'solid', 'primary-dark');
+      }
+      &:visited{
+        @include u-border-bottom('2px', 'solid', 'indigo-warm-60v');
+      }
+
+    }
+  }
+}
+
 #elsewhere{
   @include u-padding-y(10);
   .content{
-    @include u-text('thin');
     ul{
       @include add-list-reset;
       @include u-margin-y(3);
-      @include u-font('sans', 'lg');
+      @include u-font('sans', 'md');
       a{
         @include u-text('no-underline');
         @include u-text('black');
