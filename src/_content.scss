@@ -12,6 +12,10 @@
     @include u-text('thin');
   }
 
+  h2{
+    @include u-font('sans', 'md');
+  }
+
   .btn{
     @include u-padding-y('2px');
     @include u-padding-x('105');
