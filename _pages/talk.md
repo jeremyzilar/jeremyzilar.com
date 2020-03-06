@@ -4,6 +4,10 @@ title: "Let's Talk"
 
 ---
 
+**Send me an email** — [jeremyzilar@gmail.com](mailto:jeremyzilar@gmail.com)
+
+---
+
 If you're interested in finding out if I'd be the right fit for your team, [**schedule a free consult**](https://calendly.com/jeremyzilar/online).
 
 Before we meet, it would be helpful for me to know more about:
@@ -14,9 +18,9 @@ Before we meet, it would be helpful for me to know more about:
 
 ---
 
-I often work with organizations that have teams in multiple locations, in different time zones and different countries.
+## When we talk
 
-**When we talk**, it's important that we communicate in a way that is comfortable to you and your team.
+I often work with organizations that have teams in multiple locations, in different time zones and different countries. Let's find a way to connect that is comfortable to you and your team.
 
 - **In-person meetings** — I prefer to meet in Manhattan, near the West Village or the World Trade Center building. [Schedule a consult »](https://calendly.com/jeremyzilar/in-person)
 - **Online meetings** — I generally use [Google Hangouts](https://hangouts.google.com/), [ZOOM](https://zoom.us/), or [WhereBy](https://whereby.com/), but am open to using other services. [Schedule a consult »](https://calendly.com/jeremyzilar/online)
