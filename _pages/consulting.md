@@ -12,4 +12,4 @@ I serve as an artists’ strategic design partner and guide by immersing myself 
 I work with teams in New York City that often have staff located around the world to improve the way they work by creating and implementing new physical and digital workflows, rhythms, and communication that better serve the goals of the artist and improve the quality and efficiency of artwork, products, brands, services and artistic environments.
 
 
-[Send me an email](/talk) or [schedule a time to talk](/talk) »
+[**Let’s find a time to talk »**](/talk)
