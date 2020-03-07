@@ -8,7 +8,8 @@ title: "Let's Talk"
 
 ---
 
-If you're interested in finding out if I'd be the right fit for your team, [**schedule a free consult**](https://calendly.com/jeremyzilar/online).
+If you're interested in finding out if I'd be the right fit for your team, [**find a time to meet**](https://calendly.com/jeremyzilar/online).
+
 
 Before we meet, it would be helpful for me to know more about:
 - your team composition (size, skills, location, etc..)
@@ -22,7 +23,7 @@ Before we meet, it would be helpful for me to know more about:
 
 I often work with organizations that have teams in multiple locations, in different time zones and different countries. Let's find a way to connect that is comfortable to you and your team.
 
-- **In-person meetings** — I prefer to meet in Manhattan, near the West Village or the World Trade Center building. [Schedule a consult »](https://calendly.com/jeremyzilar/in-person)
-- **Online meetings** — I generally use [Google Hangouts](https://hangouts.google.com/), [ZOOM](https://zoom.us/), or [WhereBy](https://whereby.com/), but am open to using other services. [Schedule a consult »](https://calendly.com/jeremyzilar/online)
-- **Phone** — Sometimes the phone is the easiest. I am happy to provide my number after you schedule a time to meet. [Schedule a consult »](https://calendly.com/jeremyzilar/online)
+- **In-person meetings** — I prefer to meet in Manhattan, near the West Village or the World Trade Center building. [Find a time »](https://calendly.com/jeremyzilar/in-person)
+- **Online meetings** — I generally use [Google Hangouts](https://hangouts.google.com/), [ZOOM](https://zoom.us/), or [WhereBy](https://whereby.com/), but am open to using other services. [Find a time »](https://calendly.com/jeremyzilar/online)
+- **Phone** — Sometimes the phone is the easiest. I am happy to provide my number after you schedule a time to meet. [Find a time »](https://calendly.com/jeremyzilar/online)
 - **Email** — [jeremyzilar@gmail.com](mailto:jeremyzilar@gmail.com)
