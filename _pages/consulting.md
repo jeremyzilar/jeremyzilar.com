@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consulting for Artists and Mission-driven Art Organizations
-
+deck: Human-centered design + strategic business consulting for artists and mission-driven art organizations
 ---
 
 

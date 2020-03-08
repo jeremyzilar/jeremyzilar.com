@@ -4,12 +4,19 @@ layout: default
 
 <main id="main" class="page">
   <div class="grid-container grid-container-desktop-lg">
+    <div class="head">
+      <h1>{{ page.title | escape }}</h1>
+      {% if page.deck %}
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-12">
+          <div class="deck"><span>{{ page.deck }}</span></div>
+        </div>
+      </div>
+      {% endif %}
+    </div>
     <div class="grid-row">
       <div class="grid-col-12 tablet:grid-col-8">
         <article>
-          <div class="head">
-            <h1>{{ page.title | escape }}</h1>
-          </div>
           <div class="content usa-prose">
             {{ content }}
           </div>
