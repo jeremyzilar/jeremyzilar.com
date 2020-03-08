@@ -1,9 +1,16 @@
 
 header{
-  @include u-padding-y(9);
-  h1,
-  h2{
-    @include u-font('sans', 'lg');
+  @include u-margin-bottom(5);
+  @include u-padding-y(2);
+  @include at-media('tablet') {
+    @include u-margin-bottom(5);
+    @include u-padding-y(6);
+  }
+  h1{
+    @include u-font('sans', 'md');
+    @include at-media('tablet') {
+      @include u-font('sans', 'lg');
+    }
     @include u-text('normal');
     a{
       @include u-padding-y('05');

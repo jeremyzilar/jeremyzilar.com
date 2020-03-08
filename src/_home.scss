@@ -1,5 +1,6 @@
 .home{
   .usa-prose{
+    @include u-font('sans', 'lg');
     a{
       @include u-text('no-underline');
       @include u-border-bottom('2px', 'solid', 'primary-vivid');
@@ -17,6 +18,7 @@
 #elsewhere{
   @include u-padding-y(10);
   .content{
+    @include u-font('sans', 'lg');
     ul{
       @include add-list-reset;
       @include u-margin-y(3);
