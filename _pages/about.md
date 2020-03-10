@@ -11,3 +11,5 @@ Jeremy began his career as an artist and art fabricator, and later went on to wo
 More recently, he joined [18F](https://18f.gsa.gov/), a digital services agency within the United States Government. Currently, he is the Director of [Digital.gov](https://digital.gov/), a program out of the [GSA](https://gsa.gov/) that provides guidance, tools, resources for building better, more accessible digital services for the public.
 
 He is also on the board of the [Brooklyn Rail](https://brooklynrail.org/).
+
+[View the resume](/work/resume).
