@@ -4,38 +4,18 @@
     @include u-font('sans', 'lg');
     @include u-display('none');
   }
-
   .deck{
-    @include u-margin-bottom(5);
+    @include u-margin-bottom(7);
     @include u-font('sans', 'lg');
-    @include u-line-height('sans', 5);
-    @include u-text('normal');
-    @include u-position('relative');
-    @include u-left('neg-1');
+    // @include u-line-height('sans', 5);
+    @include u-text('thin');
     @include at-media('tablet') {
-      @include u-margin-bottom(7);
       @include u-font('sans', 'xl');
-      @include u-line-height('sans', 4);
-      @include u-left('neg-105');
-    }
-    span{
-      @include u-padding-top('2px');
-      @include u-padding-bottom('05');
-      @include u-padding-x(1);
-      @include u-radius('sm');
-      @include u-bg('black');
-      @include u-text('white');
-      box-decoration-break: clone;
-      -webkit-box-decoration-break: clone;
-      @include at-media('tablet') {
-        @include u-padding-top(0);
-        @include u-padding-bottom('05');
-        @include u-padding-x('105');
-        @include u-radius('md');
-      }
+      // @include u-line-height('sans', 4);
     }
   }
 }
+
 
 
 // .content

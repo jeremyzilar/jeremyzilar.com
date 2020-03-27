@@ -1,8 +1,18 @@
 .home{
   .usa-prose{
-    @include u-font('sans', 'lg');
+    @include u-font('sans', 'md');
+    @include u-text('thin');
+    @include at-media('tablet') {
+      @include u-font('sans', 'lg');
+    }
+    span{
+      @include u-padding-x('1px');
+      @include u-bg('gold-10v');
+      @include u-radius('1px');
+    }
     a{
       @include u-text('no-underline');
+      @include u-text('normal');
       @include u-border-bottom('2px', 'solid', 'primary-vivid');
       &:hover{
         @include u-border-bottom('2px', 'solid', 'primary-dark');
@@ -18,7 +28,11 @@
 #elsewhere{
   @include u-padding-y(10);
   .content{
-    @include u-font('sans', 'lg');
+    @include u-font('sans', 'md');
+    @include u-text('thin');
+    @include at-media('tablet') {
+      @include u-font('sans', 'lg');
+    }
     ul{
       @include add-list-reset;
       @include u-margin-y(3);
