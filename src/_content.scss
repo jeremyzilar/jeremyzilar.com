@@ -32,6 +32,13 @@
     @include u-text('medium');
   }
 
+  .highlight{
+    @include u-padding-y('1px');
+    @include u-padding-x('05');
+    @include u-bg('gold-10v');
+    @include u-radius('sm');
+  }
+
   .btn{
     @include u-padding-y('2px');
     @include u-padding-x('105');

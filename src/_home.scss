@@ -5,11 +5,6 @@
     @include at-media('tablet') {
       @include u-font('sans', 'lg');
     }
-    span{
-      @include u-padding-x('1px');
-      @include u-bg('gold-10v');
-      @include u-radius('1px');
-    }
     a{
       @include u-text('no-underline');
       @include u-text('normal');
