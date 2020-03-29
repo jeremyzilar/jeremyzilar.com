@@ -31,14 +31,15 @@
   .school{
     @include u-padding-y(4);
     .date{
-      @include u-margin-bottom('105');
-      @include u-font('sans', '2xs');
+      @include u-margin-bottom(1);
+      @include u-font('sans', 'xs');
       @include u-line-height('sans', 2);
       @include u-padding-y('2px');
-      @include u-padding-x('05');
       @include u-text('light');
       @include u-display('inline-block');
-      @include u-border('1px', 'solid','base-dark');
+      span{
+        @include u-padding-x('05');
+      }
     }
     h3{
       @include u-margin(0);
@@ -47,14 +48,14 @@
     }
     h4{
       @include u-margin(0);
-      @include u-margin-bottom(2);
+      @include u-margin-bottom('205');
       @include u-font('sans', 'md');
       @include u-text('thin');
     }
     .desc{
       p{
         @include u-text('light');
-        @include u-font('sans', 'md');
+        @include u-font('sans', 'sm');
         &:first-child{
           @include u-margin-top(0);
         }

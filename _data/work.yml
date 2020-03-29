@@ -1,21 +1,11 @@
 experience:
   - job: digitalgov
     title: "Director, Digital.gov"
-    company: "General Services Administration / GSA"
+    company: "General Services Administration (GSA)"
     date_start: "Mar 2017"
     date_end: "Present"
     desc: |
-      Modernizing and directing a decade-old program aimed at helping teams in government build better, more reliable digital services for the public. Collaborating with digital leaders who are facing similar challenges across federal agencies, and with governments around the world. Oversaw 19 government-wide communities of practice and developed an events and training program. Provided a long-term foundation for the U.S. Web Design System to grow and flourish as a congressionally-funded, open-source project.
-
-      Highlights: Worked with government communication/PR teams to implement crowdsourcing and collaboration around common technology challenges and problems. Rebuilt Digital.gov as an open-source project, largely using free available tools.
-
-  - job: brooklynrail
-    title: "Board Member"
-    company: "The Brooklyn Rail"
-    date_start: "Nov 2017"
-    date_end: "Present"
-    desc: |
-      Led engagements with government agencies (Federal, State, Local, Tribal) on mission-critical projects, aligning strategy, vision and operational objectives with an aim toward user-centered design, agile methodologies, transparency and open source.
+      Leads a fully-distributed, cross-functional team of editors, designers, engineers, and community leaders to produce guidance and tools that helps product managers design and build better, more accessible digital services for the public. Tools include: Digital.gov, U.S. Web Design System, PlainLanguage.gov, Accessibility for Teams, among others. Oversees +22 communities of practice and a regular events and training series. Collaborates with digital leaders across the federal government, and meets regularly with digital teams from governments around the world.
 
   - job: 18f
     title: "Strategist / Innovation Specialist [GS15]"
@@ -23,7 +13,7 @@ experience:
     date_start: "May 2015"
     date_end: "Apr 2016"
     desc: |
-      Led engagements with government agencies (Federal, State, Local, Tribal) on mission-critical projects, aligning strategy, vision and operational objectives with an aim toward user-centered design, agile methodologies, transparency and open source.
+      Led engagements with government agencies (federal, state, local, tribal) around discovering key opportunities and challenges around mission-critical projects. Used human-centered methodologies to develop strategies and operational objectives with a focus on user-centered design, iterative/agile methods, transparency, and working in the open.
 
   - job: timeinc
     title: "Director of Platform Engineering, CMS"
@@ -93,3 +83,13 @@ education:
     date_end: "2006"
     name: "The School of Visual Arts"
     degree: "Courses in design and typography"
+
+volunteer:
+  - job: brooklynrail
+    title: "Board Member"
+    company: "The Brooklyn Rail"
+    date_start: "Jan 2018"
+    date_end: "Present"
+    name: "The Brookyn Rail"
+    desc: |
+      Example

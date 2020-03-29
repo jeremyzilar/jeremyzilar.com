@@ -12,7 +12,7 @@ layout: default
 		</div>
 
 		<div class="grid-row">
-			<div class="grid-col-12">
+			<div class="grid-col-12 grid-col-12 tablet:grid-col-7">
 				<h2>Experience</h2>
 			</div>
 		</div>
@@ -32,18 +32,39 @@ layout: default
     {% endfor %}
 
 		<div class="grid-row">
-			<div class="grid-col-12">
+			<div class="grid-col-12 grid-col-12 tablet:grid-col-7">
 				<h2>Education</h2>
 			</div>
 		</div>
 
 		{% for school in site.data.work.education %}
-		<div class="school school-{{ job.job }} usa-prose">
+		<div class="school school-{{ school.name }} usa-prose">
 			<div class="grid-row">
 				<div class="grid-col-12 tablet:grid-col-7">
 					<h3>{{ school.name }}</h3>
 					<h4>{{ school.degree }}</h4>
 					<div class="date">{{ school.date_start }} <span>&#8594;</span> {{ school.date_end }}</div>
+				</div>
+			</div>
+		</div>
+    {% endfor %}
+
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-12 tablet:grid-col-7">
+				<h2>Volunteer</h2>
+			</div>
+		</div>
+
+		{% for vol in site.data.work.volunteer %}
+		<div class="job job-{{ vol.job }} usa-prose">
+			<div class="grid-row">
+				<div class="grid-col-12 tablet:grid-col-7">
+					<div class="date">{{ vol.date_start }} <span>&#8594;</span> {{ vol.date_end }}</div>
+					<h3>{{ vol.title }}</h3>
+					<h4>{{ vol.company }}</h4>
+					<div class="desc">
+						{{ vol.desc | markdownify }}
+					</div>
 				</div>
 			</div>
 		</div>
