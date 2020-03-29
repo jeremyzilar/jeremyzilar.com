@@ -48,13 +48,13 @@
     h4{
       @include u-margin(0);
       @include u-margin-bottom(2);
-      @include u-font('sans', 'sm');
+      @include u-font('sans', 'md');
       @include u-text('thin');
     }
     .desc{
       p{
         @include u-text('light');
-        @include u-font('sans', 'xs');
+        @include u-font('sans', 'md');
         &:first-child{
           @include u-margin-top(0);
         }
