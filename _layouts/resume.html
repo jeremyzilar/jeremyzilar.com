@@ -20,12 +20,38 @@ layout: default
 		<div class="job job-{{ job.job }} usa-prose">
 			<div class="grid-row">
 				<div class="grid-col-12 tablet:grid-col-7">
+					{% if job.date_start %}
 					<div class="date">{{ job.date_start }} <span>&#8594;</span> {{ job.date_end }}</div>
-					<h3>{{ job.title }}</h3>
-					<h4>{{ job.company }}</h4>
+					{% endif %}
+					{% if job.title %}
+					<p class="title">{{ job.title }}</p>
+					{% endif %}
+					{% if job.company %}
+					<p class="company">
+						{{ job.company }}
+						{% if job.location %}
+						<span class="location"> — {{ job.location }}</span>
+						{% endif %}
+					</p>
+					{% endif %}
+
+					{% if job.desc %}
 					<div class="desc">
 						{{ job.desc | markdownify }}
 					</div>
+					{% endif %}
+					{% if job.sites %}
+					<ul class="sites">
+					{% for site in job.sites %}
+						<li>
+							<img src="https://www.google.com/s2/favicons?domain={{ site[0] }}" alt="{{ site[1] }} logo">
+							<a href="{{ site[0] }}" title="{{ site[1] }}">
+								{{ site[1] }}
+							</a>
+						</li>
+					{% endfor %}
+					</ul>
+					{% endif %}
 				</div>
 			</div>
 		</div>
@@ -41,8 +67,8 @@ layout: default
 		<div class="school school-{{ school.name }} usa-prose">
 			<div class="grid-row">
 				<div class="grid-col-12 tablet:grid-col-7">
-					<h3>{{ school.name }}</h3>
-					<h4>{{ school.degree }}</h4>
+					<p class="title">{{ school.name }}</p>
+					<p class="company">{{ school.degree }}</p>
 					<div class="date">{{ school.date_start }} <span>&#8594;</span> {{ school.date_end }}</div>
 				</div>
 			</div>
@@ -60,8 +86,8 @@ layout: default
 			<div class="grid-row">
 				<div class="grid-col-12 tablet:grid-col-7">
 					<div class="date">{{ vol.date_start }} <span>&#8594;</span> {{ vol.date_end }}</div>
-					<h3>{{ vol.title }}</h3>
-					<h4>{{ vol.company }}</h4>
+					<p class="title">{{ vol.title }}</p>
+					<p class="company">{{ vol.company }}</p>
 					<div class="desc">
 						{{ vol.desc | markdownify }}
 					</div>

@@ -4,15 +4,12 @@
     @include u-margin-y(5);
     @include u-padding-y(1);
     @include u-text('light');
-    @include u-font('sans', 'md');
+    @include u-text('uppercase');
+    @include u-font('sans', 'sm');
     @include u-border-bottom('1px', 'solid','base-dark');
   }
 
   .pdf{
-    @include u-padding-y('105');
-    @include u-padding-x(2);
-    @include u-radius('sm');
-    @include u-bg('gray-warm-10');
     @include u-font('sans', 'xs');
     @include u-text('no-underline');
     @include u-text('primary-vivid');
@@ -30,37 +27,73 @@
   .job,
   .school{
     @include u-padding-y(4);
+    @include u-text('light');
+    @include u-font('sans', 'sm');
     .date{
       @include u-margin-bottom(1);
       @include u-font('sans', 'xs');
-      @include u-line-height('sans', 2);
+      @include u-line-height('sans', 1);
       @include u-padding-y('2px');
-      @include u-text('light');
+      @include u-text('uppercase');
       @include u-display('inline-block');
       span{
         @include u-padding-x('05');
       }
     }
-    h3{
+    .title{
       @include u-margin(0);
+      @include u-margin-bottom('05');
       @include u-font('sans', 'lg');
+      @include u-line-height('sans', 2);
       @include u-text('bold');
     }
-    h4{
+    .company{
       @include u-margin(0);
-      @include u-margin-bottom('205');
-      @include u-font('sans', 'md');
-      @include u-text('thin');
+      @include u-margin-bottom('05');
+    }
+    .location{
+      @include u-margin(0);
+      @include u-text('italic');
+      @include u-line-height('sans', 1);
     }
     .desc{
+      @include u-margin-top('205');
       p{
-        @include u-text('light');
+        @include u-text('normal');
         @include u-font('sans', 'sm');
         &:first-child{
           @include u-margin-top(0);
         }
         &:last-child{
           @include u-margin-bottom(0);
+        }
+      }
+    }
+    .sites{
+      @include add-list-reset;
+      @include u-margin-y('105');
+      @include u-font('sans', 'xs');
+      @include u-text('normal');
+      @include at-media('tablet') {
+        -moz-column-count: 2;
+        -moz-column-gap: 15px;
+        -webkit-column-count: 2;
+        -webkit-column-gap: 15px;
+        column-count: 2;
+        column-gap: 15px;
+      }
+      li{
+        @include u-margin-y('05');
+        img{
+          @include u-margin-right('2px');
+          @include u-position('relative');
+          @include u-top('2px');
+        }
+        a{
+          @include u-text('no-underline');
+          &:hover{
+            @include u-text('underline');
+          }
         }
       }
     }
