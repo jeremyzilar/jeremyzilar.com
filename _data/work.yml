@@ -55,6 +55,8 @@ experience:
       Worked independently and across teams on larger editorial strategy and design-related projects across the Times that spanned areas of branding, identity, editorial tools, and internal communication.
 
       Highlights: Completed a full content audit of nytimes.com and mobile apps in advance of a major redesign, revealing overlaps in coverage, gaps in communication, and redundant work. Reimagined new online formats for The New York Times Magazine. Developed tools that used live data to help editors visualize the impact of their work and created ways for the Times to reach new audiences.
+    sites:
+      https://nytimes.com/: NYTimes.com
 
   - job: nyt-blogs
     title: "Blog Specialist"
@@ -66,7 +68,8 @@ experience:
       Responsible for launching and leading the long-term digital strategy on 200+ blogs on NYTimes.com, including DealBook, FiveThirtyEight, Well, Bits, CityRoom, Opinionator, and The Lede — a blog devoted to breaking news. Oversaw the design and development of a platform for building successful, editorial brands within the organization. Championed the Times’ early efforts to transform a print newsroom into a highly responsive, digital-first operation that could produce continuous and real-time news on the web.
 
       Highlights: In addition to designing and building a design system and online style guide, I developed the editorial workflows across the newsroom and managed the daily digital operations across the platform. Developed newsroom strategies for breaking news, live coverage, live blogging, reader comments, and news over Twitter.
-
+    sites:
+      https://nytimes.com/blogs: NYTimes.com/blogs
 
   - job: rookie-mag
     title: "Advisor"
@@ -76,6 +79,8 @@ experience:
     location: New York, NY
     desc: |
       Approached by Ira Glass and Tavi Gevinson to oversee the design, build and launch Rookie Magazine, an alternative online publication for teenagers. Established goals, set expectations and pulled together a team to design and build a publication and identity in under a month.
+    sites:
+      https://www.rookiemag.com/: Rookie Magazine
 
   - job: crf
     title: "Lead Designer/Developer"
@@ -106,7 +111,14 @@ volunteer:
     date_start: "Jan 2018"
     date_end: "Present"
     name: "The Brookyn Rail"
+    desc: |
+      I serve as the strategic design partner and guide for the Brooklyn Rail and help them to improve the way they work by creating and implementing new physical and digital workflows, rhythms, and communication that better serve the goals of the Rail and improve the quality and efficiency of artwork, products, brands, services, and artistic environments.
 
+      I have been working modernize the Rail's online presence and make it more accessible, mobile-friendly, and sustainable for the team.
+    sites:
+      https://brooklynrail.org/: Brooklyn Rail
+      https://brooklynrail.org/2019/12/art/DAVID-LYNCH-with-Phong-Bui: Brooklyn Rail Article Page
+      https://venice.brooklynrail.org/: 2019 Venice Biennale
 
   - job: mss
     title: "Board Member"

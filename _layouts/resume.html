@@ -91,6 +91,18 @@ layout: default
 					<div class="desc">
 						{{ vol.desc | markdownify }}
 					</div>
+					{% if vol.sites %}
+					<ul class="sites">
+					{% for site in vol.sites %}
+						<li>
+							<img src="https://www.google.com/s2/favicons?domain={{ site[0] }}" alt="{{ site[1] }} logo">
+							<a href="{{ site[0] }}" title="{{ site[1] }}">
+								{{ site[1] }}
+							</a>
+						</li>
+					{% endfor %}
+					</ul>
+					{% endif %}
 				</div>
 			</div>
 		</div>
