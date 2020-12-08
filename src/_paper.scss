@@ -1,12 +1,8 @@
 body{
   @include u-bg('indigo-warm-80');
 }
-.paper{
+body > .paper{
   @include u-bg('gray-warm-5');
   @include u-position('relative');
   @include u-minh('viewport');
-  @include u-border(1, 'solid', 'white');
-  @include at-media('tablet') {
-    @include u-border(3, 'solid', 'white');
-  }
 }
