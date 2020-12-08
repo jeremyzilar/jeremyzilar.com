@@ -93,16 +93,16 @@ experience:
 
 education:
   - school: rmcad
-    date_start: "Jun 2005"
-    date_end: "Apr 2006"
+    date_start: "Jun 1996"
+    date_end: "Apr 2001"
     name: "The Rocky Mountain College of Art and Design"
     degree: "BFA, Painting, Drawing, and Digital Media"
 
   - school: sva
-    date_start: "2005"
-    date_end: "2006"
+    date_start: "2006"
+    date_end: "2008"
     name: "The School of Visual Arts"
-    degree: "Courses in design and typography"
+    degree: "Courses in typography, hand-lettering, and programmatic illustration"
 
 volunteer:
   - job: brooklynrail
