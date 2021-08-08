@@ -3,26 +3,23 @@
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
-  "dependencies": {
-    "css-mqpacker": "^7.0.0",
-    "cssnano": "^4.1.10",
-    "gulp-rename": "^2.0.0",
-    "path": "^0.12.7"
-  },
   "devDependencies": {
-    "autoprefixer": "^9.7.4",
+    "autoprefixer": "^10.3.1",
     "gulp": "^4.0.2",
-    "gulp-notify": "^3.2.0",
-    "gulp-postcss": "^8.0.0",
-    "gulp-replace": "^1.0.0",
-    "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^2.6.5",
-    "postcss-csso": "^4.0.0",
-    "sass": "^1.26.2",
-    "uswds": "^2.5.1",
+    "gulp-postcss": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.1.3",
+    "gulp-sass": "^4.1.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "postcss": "^8.3.6",
+    "postcss-csso": "^5.0.1",
+    "sass": "^1.37.5",
+    "uswds": "^2.12.0",
     "uswds-gulp": "github:uswds/uswds-gulp"
   },
   "scripts": {
+    "start": "bundle exec jekyll serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
