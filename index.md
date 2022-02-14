@@ -1,9 +1,13 @@
 ---
 layout: home
 title: Jeremy Zilar
-deck: "I combine human-centered design and strategic business consulting to help organizations set visions, create strategies, design compelling experiences, and empower their teams to have greater autonomy, confidence, and independence."
+deck: "I work with artists, musicians, writers, poets, creators, foundations and art organizations to improve the their unique rhythms, business operations, and artistic process."
 ---
 
-I'm on the board of the [Brooklyn Rail](https://brooklynrail.org/). Recently, I've been helping the _Rail_ produce a series of daily conversations with artists, writers, filmmakers, and poets from around the world called "_[The New Social Environment](https://brooklynrail.org/events)_", where we explore the role that artists and arts organizations play in shaping our society.
+Currently, I am a senior engineer at [Bonsai](https://joinbonsai.co/jz/) where we're building and designing tools for artists, musicians, and creators connect with each other and build sustainable careers.
 
-Recently, I was a strategist at 18F and Director of [Digital.gov](https://digital.gov/) a program aimed at helping governments design and build better, more accessible digital services for the public where I oversaw the [U.S. Web Design System](https://designsystem.digital.gov/), [PlainLanguage.gov](https://www.plainlanguage.gov/) and 22 communities of practice. Before joining government, I was a design strategist at _The New York Times_, where I designed and built the company's first blogging platform and launched over 200 blogs.
+I'm on the board of the [Brooklyn Rail](https://brooklynrail.org/), and have been helping them produce "_[The New Social Environment](https://brooklynrail.org/events)_", a series of daily conversations with artists, writers, filmmakers, and poets from around the world that explore the role that artists and arts organizations play in shaping our society.
+
+Formerly, I oversaw the blogs at _The New York Times_ and launched over 200 blogs with some of the most talented writers in the world.
+
+I also spent 4 years in the civic tech world at as strategist at 18F and Director of [Digital.gov](https://digital.gov/), the [U.S. Web Design System](https://designsystem.digital.gov/), [PlainLanguage.gov](https://www.plainlanguage.gov/) and 22 communities of practice.
