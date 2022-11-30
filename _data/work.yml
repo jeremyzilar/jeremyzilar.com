@@ -1,4 +1,20 @@
 experience:
+  - job: brooklynrail
+    title: "Board Member"
+    company: "The Brooklyn Rail"
+    date_start: "Jan 2017"
+    date_end: "Present"
+    location: New York, NY
+    desc: |
+      As an active board member, I serve as a strategic partner and guide for the Brooklyn Rail by immersing myself in their unique rhythms, business operations, and artistic process and helping them to set visions, create strategies, design compelling experiences, and empower their teams to have greater autonomy, confidence, and independence. 
+      
+      In early 2020, right before the country went into lock down, I helped the Rail launch the "The New Social Environment", a daily, online video conversation with prominent artists, filmmakers, writers, and poets. We are now on our 700th episode. This not only helped our nonprofit to weather the economic challenges of the pandemic, but more than doubled our readership with most of the new subscribers coming from outside of North America. Last year, over 2.1 million people visited brooklynrail.org.
+    sites:
+      https://brooklynrail.org: The Brooklyn Rail
+      https://brooklynrail.org/events: The New Social Environment
+      https://www.youtube.com/@TheBrooklynRail: The New Social Environment / Video Archive
+      https://venice.brooklynrail.org/: Venice Biennale
+
   - job: digitalgov
     title: "Director, Digital.gov"
     company: "General Services Administration (GSA)"
@@ -6,12 +22,16 @@ experience:
     date_end: "May 2020"
     location: New York, NY (Remote)
     desc: |
-      Led a fully-distributed, cross-functional team of editors, strategists, designers, engineers, and community leaders to produce guidance and tools that help product managers design and build better, more accessible digital services for the public. Tools include: Digital.gov, U.S. Web Design System, PlainLanguage.gov, Accessibility for Teams, among others. Oversaw +22 communities of practice and a vibrant events and training series. Collaborated with digital leaders across the federal government, and met regularly with digital teams from governments around the world.
+      I led a fully-distributed, cross-functional team of editors, strategists, designers, engineers, and community leaders to produce guidance and tools that help product managers design and build better, more accessible digital services for the public. Tools include: Digital.gov, U.S. Web Design System, PlainLanguage.gov, Accessibility for Teams, among others. Oversaw +22 communities of practice and a vibrant events and training series. 
+      
+      In 2020, our team helped to get the 21st Century Integrated Digital Experience Act signed into law, which requires federal public websites to follow the standards and design principles outlined in the U.S. Web Design System. I was an active member of the Federal Web Council,  and met monthly with emergiging digital teams from governments around the world.
     sites:
       https://digital.gov: Digital.gov
+      https://designsystem.digital.gov/: U.S. Web Design System
+      https://designsystem.digital.gov/design-principles/: USWDS Design Principles
+      https://digital.gov/resources/21st-century-integrated-digital-experience-act/: 21st Century Integrated Digital Experience Act
       https://digital.gov/communities: Digital.gov Communities of Practice
       https://digital.gov/resources: Digital.gov Guides and Resources
-      https://designsystem.digital.gov/: U.S. Web Design System
       https://plainlanguage.gov: PlainLanguage.gov
       https://accessibility.digital.gov: Accessibility for Teams
       https://pra.digital.gov: Guide to the Paperwork Reduction Act (PRA)
@@ -24,7 +44,7 @@ experience:
     date_end: "Apr 2017"
     location: New York, NY (Remote)
     desc: |
-      Led cross-functional teams, at 18F through user-research and strategy engagements on mission-critical projects with government agencies (federal, state, local, tribal). Used human-centered design methodologies to develop strategies and operational objectives with a focus on user-centered design, iterative/agile methods, transparency, and working in the open.
+      As a strategist, I led cross-functional teams at 18F and partner agencies (federal, state, local, tribal) through user-research and strategy engagements to bring human-centered focus and technical expediancy to mission-critical projects. I used human-centered design methodologies to develop strategies and operational objectives with a focus on user-centered design, iterative/agile methods, accessibility, transparency, and working in the open.
     sites:
       https://18f.gsa.gov: 18F
       https://18f.gsa.gov/how-we-work/: 18F — How we work
