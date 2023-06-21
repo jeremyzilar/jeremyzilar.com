@@ -4,7 +4,7 @@ title: Jeremy Zilar
 deck: "I work with artists, musicians, writers, poets, creators, foundations and art organizations to improve the their unique rhythms, business operations, and artistic process."
 ---
 
-Currently, I'm a senior engineer at [Bonsai](https://joinbonsai.co/jz/) where we're building and designing tools for artists, musicians, and creators.
+I'm on the board of the [Brooklyn Rail](https://brooklynrail.org/). Recently, I've been helping the _Rail_ produce "_[The New Social Environment](https://brooklynrail.org/events)_", a series of daily conversations with artists, writers, filmmakers, and poets from around the world.
 
 Formerly, I oversaw the blogs at [_The New York Times_](https://www.nytimes.com/) and launched over 220 blogs, with some of the most talented writers in the world.
 
