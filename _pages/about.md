@@ -13,4 +13,4 @@ More recently, he joined [18F](https://18f.gsa.gov/), a digital services agency
 
 He is also on the board of the [Brooklyn Rail](https://brooklynrail.org/).
 
-[View the resume](/work/resume).
+[View the full CV »](/work/resume).
