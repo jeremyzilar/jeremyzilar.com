@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Jeremy Zilar
 email: jeremyzilar@gmail.com
-description: Artist, designer, strategist
+description: Artist, designer, strategist, and engineer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeremyzilar
-github_username:  jeremyzilar
+github_username: jeremyzilar
 
 # Build settings
 markdown: kramdown
@@ -49,8 +49,6 @@ github:
   organization:
   repository: jeremyzilar.com
   default_branch: master
-
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
