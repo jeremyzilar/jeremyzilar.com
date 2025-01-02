@@ -1,12 +1,12 @@
 experience:
   - job: ead
-      title: "President"
-      company: "Experiments in Art and Design"
-      date_start: "Jan 2023"
-      date_end: "Present"
-      location: New York, NY
-      desc: |
-        Human-centered design, engineering, and strategic business consulting for artists, foundations, cultural institutions, and civic entities. We work to clarify their purpose, make their content accessible and beautiful, and improve their relationship with technology.
+    title: "President"
+    company: "Experiments in Art and Design"
+    date_start: "Jan 2023"
+    date_end: "Present"
+    location: New York, NY
+    desc: |
+      Human-centered design, engineering, and strategic business consulting for artists, foundations, cultural institutions, and civic entities. We work to clarify their purpose, make their content accessible and beautiful, and improve their relationship with technology.
 
   - job: brooklynrail
     title: "Board Member"
@@ -15,9 +15,8 @@ experience:
     date_end: "Present"
     location: New York, NY
     desc: |
-      As an active board member, I serve as a strategic partner and guide for the Brooklyn Rail by immersing myself in their unique rhythms, business operations, and artistic process and helping them to set visions, create strategies, design compelling experiences, and empower their teams to have greater autonomy, confidence, and independence. 
-      
-      In early 2020, right before the country went into lock down, I helped the Rail launch the "The New Social Environment", a daily, online video conversation with prominent artists, filmmakers, writers, and poets. We are now on our 900th episode. This not only helped our nonprofit to weather the economic challenges of the pandemic, but more than doubled our readership with most of the new subscribers coming from outside of North America. Last year, over 2.1 million people visited brooklynrail.org.
+      Serving as an active board member and strategic partner for The Brooklyn Rail who is deeply immersed in their unique rhythms, business operations, and artistic process and helping them to set visions, create strategies, design compelling experiences, and empower their team to grow both as individuals and as a collective.
+
     sites:
       https://brooklynrail.org: The Brooklyn Rail
       https://brooklynrail.org/events: The New Social Environment
@@ -32,7 +31,7 @@ experience:
     location: New York, NY (Remote)
     desc: |
       I led a fully-distributed, cross-functional team of editors, strategists, designers, engineers, and community leaders to produce guidance and tools that help product managers design and build better, more accessible digital services for the public. Tools include: Digital.gov, U.S. Web Design System, PlainLanguage.gov, Accessibility for Teams, among others. Oversaw +22 communities of practice and a vibrant events and training series. 
-      
+
       In 2020, our team helped to get the 21st Century Integrated Digital Experience Act signed into law, which requires federal public websites to follow the standards and design principles outlined in the U.S. Web Design System. I was an active member of the Federal Web Council,  and met monthly with emergiging digital teams from governments around the world.
     sites:
       https://digital.gov: Digital.gov
@@ -44,7 +43,6 @@ experience:
       https://plainlanguage.gov: PlainLanguage.gov
       https://accessibility.digital.gov: Accessibility for Teams
       https://pra.digital.gov: Guide to the Paperwork Reduction Act (PRA)
-
 
   - job: 18f
     title: "Strategist / Innovation Specialist [GS15]"
@@ -61,7 +59,6 @@ experience:
       http://handbook.18f.gov/: 18F Handbook
       https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/pages/files/Presentation%20Modular%20Contracting.pdf: "Getting things done in government"
       https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/pages/files/Presentation%20Strangler%20Pattern.pdf: Strangler Pattern, illustrated
-
 
   - job: timeinc
     title: "Director of Platform Engineering, CMS"
