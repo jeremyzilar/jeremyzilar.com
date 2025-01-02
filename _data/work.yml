@@ -7,6 +7,8 @@ experience:
     location: New York, NY
     desc: |
       Human-centered design, engineering, and strategic business consulting for artists, foundations, cultural institutions, and civic entities. We work to clarify their purpose, make their content accessible and beautiful, and improve their relationship with technology.
+    sites:
+      https://ead.technology: Experiments in Art and Design
 
   - job: brooklynrail
     title: "Board Member"
