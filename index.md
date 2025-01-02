@@ -4,7 +4,9 @@ title: Jeremy Zilar
 deck: "I work with artists, musicians, writers, poets, creators, foundations and mission-driven organizations to improve their unique rhythms, business operations, and artistic process."
 ---
 
-I am a designer, strategist, and engineer at [Experiments in Art and Design](https://ead.technology/), a design studio in New York, NY with [Juliette Cezzar](https://juliettecezzar.com/). We work with artists, foundations, cultural institutions, and civic entities to clarify their purpose, make their content accessible and beautiful, and improve their relationship with technology.
+I am a designer, strategist, and engineer at [Experiments in Art and Design](https://ead.technology/), a design studio with [Juliette Cezzar](https://juliettecezzar.com/).
+
+I recently started [Beeb’s](https://beebsgoods.com/), a small company that sells 100% all-natural dog treats in plastic-free packaging. We are currently selling on [Amazon](https://www.amazon.com/stores/page/411B391D-E1FE-4D7B-81B6-CF7705C1F82F) and plan to sell them on our Shopify store in the coming months.
 
 I'm on the board of the [Brooklyn Rail](https://brooklynrail.org/) and recently helped them build and design a platform for their unique and ambitious archive.
 
