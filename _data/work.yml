@@ -1,4 +1,13 @@
 experience:
+  - job: ead
+      title: "President"
+      company: "Experiments in Art and Design"
+      date_start: "Jan 2023"
+      date_end: "Present"
+      location: New York, NY
+      desc: |
+        Human-centered design, engineering, and strategic business consulting for artists, foundations, cultural institutions, and civic entities. We work to clarify their purpose, make their content accessible and beautiful, and improve their relationship with technology.
+
   - job: brooklynrail
     title: "Board Member"
     company: "The Brooklyn Rail"

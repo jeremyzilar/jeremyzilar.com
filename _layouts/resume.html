@@ -3,110 +3,108 @@ layout: default
 ---
 
 <section id="work" class="resume">
-	<div class="grid-container grid-container-desktop-lg">
+  <div class="grid-container grid-container-desktop-lg">
+    <div class="grid-row">
+      <div class="grid-col-12 tablet:grid-col-7">
+        <a href="{{ site.baseurl }}/assets/jeremy-zilar_resume.pdf" class="pdf"
+          ><em><i class="far fa-file-pdf"></i> <span>Download PDF</span></em></a
+        >
+      </div>
+    </div>
 
-		<div class="grid-row">
-			<div class="grid-col-12 tablet:grid-col-7">
-				<a href="{{ site.baseurl }}/assets/jeremy-zilar_resume.pdf" class="pdf"><em><i class="far fa-file-pdf"></i> <span>Download PDF</span></em></a>
-			</div>
-		</div>
-
-		<div class="grid-row">
-			<div class="grid-col-12 grid-col-12 tablet:grid-col-7">
-				<h2>Experience</h2>
-			</div>
-		</div>
-		{% for job in site.data.work.experience %}
-		<div class="job job-{{ job.job }} usa-prose">
-			<div class="grid-row">
-				<div class="grid-col-12 tablet:grid-col-7">
-					{% if job.date_start %}
-					<div class="date">{{ job.date_start }} <span>&#8594;</span> {{ job.date_end }}</div>
-					{% endif %}
-					{% if job.title %}
-					<p class="title">{{ job.title }}</p>
-					{% endif %}
-					{% if job.company %}
-					<p class="company">
-						{{ job.company }}
-						{% if job.location %}
-						<span class="location"> — {{ job.location }}</span>
-						{% endif %}
-					</p>
-					{% endif %}
-
-					{% if job.desc %}
-					<div class="desc">
-						{{ job.desc | markdownify }}
-					</div>
-					{% endif %}
-					{% if job.sites %}
-					<ul class="sites">
-					{% for site in job.sites %}
-						<li>
-							<img src="https://www.google.com/s2/favicons?domain={{ site[0] }}" alt="{{ site[1] }} logo">
-							<a href="{{ site[0] }}" title="{{ site[1] }}">
-								{{ site[1] }}
-							</a>
-						</li>
-					{% endfor %}
-					</ul>
-					{% endif %}
-				</div>
-			</div>
-		</div>
+    <div class="grid-row">
+      <div class="grid-col-12 grid-col-12 tablet:grid-col-7">
+        <h2>Experience</h2>
+      </div>
+    </div>
+    {% for job in site.data.work.experience %}
+    <div class="job job-{{ job.job }} usa-prose">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-7">
+          {% if job.date_start %}
+          <div class="date">
+            {{ job.date_start }} <span>&#8594;</span> {{ job.date_end }}
+          </div>
+          {% endif %} {% if job.title %}
+          <p class="title">{{ job.title }}</p>
+          {% endif %} {% if job.company %}
+          <p class="company">
+            {{ job.company }} {% if job.location %}
+            <span class="location"> — {{ job.location }}</span>
+            {% endif %}
+          </p>
+          {% endif %} {% if job.desc %}
+          <div class="desc">{{ job.desc | markdownify }}</div>
+          {% endif %} {% if job.sites %}
+          <ul class="sites">
+            {% for site in job.sites %}
+            <li>
+              <img
+                src="https://www.google.com/s2/favicons?domain={{ site[0] }}"
+                alt="{{ site[1] }} logo"
+              />
+              <a href="{{ site[0] }}" title="{{ site[1] }}"> {{ site[1] }} </a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </div>
+      </div>
+    </div>
     {% endfor %}
 
-		<div class="grid-row">
-			<div class="grid-col-12 grid-col-12 tablet:grid-col-7">
-				<h2>Education</h2>
-			</div>
-		</div>
+    <div class="grid-row">
+      <div class="grid-col-12 grid-col-12 tablet:grid-col-7">
+        <h2>Education</h2>
+      </div>
+    </div>
 
-		{% for school in site.data.work.education %}
-		<div class="school school-{{ school.name }} usa-prose">
-			<div class="grid-row">
-				<div class="grid-col-12 tablet:grid-col-7">
-					<p class="title">{{ school.name }}</p>
-					<p class="company">{{ school.degree }}</p>
-					<div class="date">{{ school.date_start }} <span>&#8594;</span> {{ school.date_end }}</div>
-				</div>
-			</div>
-		</div>
+    {% for school in site.data.work.education %}
+    <div class="school school-{{ school.name }} usa-prose">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-7">
+          <p class="title">{{ school.name }}</p>
+          <p class="company">{{ school.degree }}</p>
+          <div class="date">
+            {{ school.date_start }} <span>&#8594;</span> {{ school.date_end }}
+          </div>
+        </div>
+      </div>
+    </div>
     {% endfor %}
 
-		<div class="grid-row">
-			<div class="grid-col-12 grid-col-12 tablet:grid-col-7">
-				<h2>Volunteer</h2>
-			</div>
-		</div>
+    <div class="grid-row">
+      <div class="grid-col-12 grid-col-12 tablet:grid-col-7">
+        <h2>Volunteer</h2>
+      </div>
+    </div>
 
-		{% for vol in site.data.work.volunteer %}
-		<div class="job job-{{ vol.job }} usa-prose">
-			<div class="grid-row">
-				<div class="grid-col-12 tablet:grid-col-7">
-					<div class="date">{{ vol.date_start }} <span>&#8594;</span> {{ vol.date_end }}</div>
-					<p class="title">{{ vol.title }}</p>
-					<p class="company">{{ vol.company }}</p>
-					<div class="desc">
-						{{ vol.desc | markdownify }}
-					</div>
-					{% if vol.sites %}
-					<ul class="sites">
-					{% for site in vol.sites %}
-						<li>
-							<img src="https://www.google.com/s2/favicons?domain={{ site[0] }}" alt="{{ site[1] }} logo">
-							<a href="{{ site[0] }}" title="{{ site[1] }}">
-								{{ site[1] }}
-							</a>
-						</li>
-					{% endfor %}
-					</ul>
-					{% endif %}
-				</div>
-			</div>
-		</div>
+    {% for vol in site.data.work.volunteer %}
+    <div class="job job-{{ vol.job }} usa-prose">
+      <div class="grid-row">
+        <div class="grid-col-12 tablet:grid-col-7">
+          <div class="date">
+            {{ vol.date_start }} <span>&#8594;</span> {{ vol.date_end }}
+          </div>
+          <p class="title">{{ vol.title }}</p>
+          <p class="company">{{ vol.company }}</p>
+          <div class="desc">{{ vol.desc | markdownify }}</div>
+          {% if vol.sites %}
+          <ul class="sites">
+            {% for site in vol.sites %}
+            <li>
+              <img
+                src="https://www.google.com/s2/favicons?domain={{ site[0] }}"
+                alt="{{ site[1] }} logo"
+              />
+              <a href="{{ site[0] }}" title="{{ site[1] }}"> {{ site[1] }} </a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </div>
+      </div>
+    </div>
     {% endfor %}
-
-	</div>
+  </div>
 </section>
