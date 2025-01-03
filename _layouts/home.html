@@ -9,7 +9,7 @@ layout: default
       {% if page.deck %}
       <div class="grid-row">
         <div class="grid-col-12 tablet:grid-col-10">
-          <div class="deck"><span>{{ page.deck }} <a href="./consulting">Learn more »</a></span></div>
+          <div class="deck"><span>{{ page.deck }}</span></div>
         </div>
       </div>
       {% endif %}
@@ -17,9 +17,7 @@ layout: default
     <div class="grid-row">
       <div class="grid-col-12 tablet:grid-col-10">
         <article>
-          <div class="content usa-prose">
-            {{ content }}
-          </div>
+          <div class="content usa-prose">{{ content }}</div>
         </article>
       </div>
     </div>
