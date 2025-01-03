@@ -25,6 +25,19 @@ experience:
       https://www.youtube.com/@TheBrooklynRail: The New Social Environment / Video Archive
       https://venice.brooklynrail.org/: Venice Biennale
 
+  - job: bonsai
+    title: "Senior Software Engineer"
+    company: "Bonsai"
+    date_start: "Jan 2021"
+    date_end: "June 2023"
+    location: New York, NY (Remote)
+    desc: |
+      As a full-stack developer at a startup focused on empowering artists and musicians, I was responsible for creating high-quality, innovative experiences in our React-based web application, enabling artists to engage with fans through short audio messages.
+    sites:
+      https://joinbonsai.co/: Bonsai
+      https://joinbonsai.co/q/9ea9fcda-e5d0-48dc-a1d0-d34c507afcd2?profile=jz: An Audiogram message from Gabe Saporta
+
+  - job: digitalgov
   - job: digitalgov
     title: "Director, Digital.gov"
     company: "General Services Administration (GSA)"
