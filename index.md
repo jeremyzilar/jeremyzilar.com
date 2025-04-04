@@ -8,7 +8,7 @@ I am a designer, strategist, and engineer at [EAD Design](https://ead.technology
 
 I often work as a strategic design partner and guide by immersing myself in a teams unique rhythms, business operations, and artistic process.
 
-I'm on the board of the [Brooklyn Rail](https://brooklynrail.org/) and recently helped them build and design a platform for their unique and ambitious archive.
+I'm on the board of [The Brooklyn Rail](https://brooklynrail.org/) and recently helped them build and design a platform for their unique and ambitious archive.
 
 Formerly, I oversaw the blogs at [_The New York Times_](https://www.nytimes.com/) and launched over 220 blogs, with some of the most talented writers in the world.
 
