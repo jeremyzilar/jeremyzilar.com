@@ -1,14 +1,10 @@
 ---
 layout: home
 title: Jeremy Zilar
-deck: "I combine human-centered design and strategic business consulting to help artists and mission-driven organizations to set visions, create strategies, design compelling experiences, and empower their teams to have greater autonomy, confidence, and independence."
+deck: "I combine human-centered design and strategic business consulting to help local governments and mission-driven organizations to set visions, create strategies, design compelling experiences, and empower their teams to have greater autonomy, confidence, and independence."
 ---
 
-I am a designer, strategist, and engineer at [EAD Design](https://ead.technology/), a design studio with [Juliette Cezzar](https://juliettecezzar.com/).
-
-I often work as a strategic design partner and guide by immersing myself in a teams unique rhythms, business operations, and artistic process.
-
-I'm on the board of [The Brooklyn Rail](https://brooklynrail.org/) and recently helped them build and design a platform for their unique and ambitious archive.
+59 Projects is strategic design studio in New Mexico that partners with governments, cultural institutions, and mission-driven organizations to build digital systems, organizational capacity, and strategic clarity.
 
 Formerly, I oversaw the blogs at [_The New York Times_](https://www.nytimes.com/) and launched over 220 blogs, with some of the most talented writers in the world.
 
